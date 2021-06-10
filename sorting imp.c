@@ -5,7 +5,7 @@ void main()
 	
 	int a[200],b[200],t,j,l,x,y,i;
 	
-	printf("welcome aadesh agrawal(2019uec1660)\nenter number of values= ");
+	printf("welcome\naadesh agrawal(2019uec1660)\nenter number of values= ");
 	scanf("%d",&x);
 	
 	for(i=0;i<x;i++)
